@@ -168,6 +168,7 @@
       <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
       <path value="$PROJECT_DIR$/vendor/parfaitementweb/filament-country-field" />
       <path value="$PROJECT_DIR$/vendor/filipfonal/filament-log-manager" />
+      <path value="$PROJECT_DIR$/vendor/_laravel_idea" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
